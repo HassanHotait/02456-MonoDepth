@@ -12,6 +12,8 @@ title: Objects Depth Estimation With MiDaS
 The purpose of this project is to investigate whether or not MIDAS can be used to predict the depth of objects in the KITTI dataset. \
 Since MiDas predicts relative depth, we assume that we are able to do the conversion from relative to metric depth given the groundtruth measurements.
 
+<iframe src="https://wandb.ai/ml-ops-02476/MonoDepth3-vkitti2/reports/Report--VmlldzoxMDY3ODYyOA" style="border:none;height:1024px;width:100%">
+
 
 # Model Under Test
 
