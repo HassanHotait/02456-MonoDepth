@@ -59,3 +59,5 @@ Click the link below to view the full report:
 Or see the preview:
 
 [![Training Report](https://via.placeholder.com/800x400?text=Preview+Report)](https://wandb.ai/ml-ops-02476/MonoDepth3-vkitti2/reports/Training-Report--VmlldzoxMDY3ODYyOA)
+
+ADD
