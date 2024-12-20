@@ -52,6 +52,8 @@ Training logs can be found [here](https://drive.google.com/file/d/1faqzq1QA3CgQh
 
 Click the link below to view the full report:
 
+<iframe src="https://wandb.ai/ml-ops-02476/MonoDepth3-vkitti2/reports/Training-Report--VmlldzoxMDY3ODYyOA" style="border:none;height:1024px;width:100%">
+
 [View Training Report](https://wandb.ai/ml-ops-02476/MonoDepth3-vkitti2/reports/Training-Report--VmlldzoxMDY3ODYyOA)
 
 Or see the preview:
