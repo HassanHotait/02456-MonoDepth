@@ -48,4 +48,4 @@ ZoeDepth is trained
 python train_mono.py -m zoedepth -d <nyu | kitti> --pretrained_resource=""
 ```
 
-Training logs can be found [here](https://drive.google.com/file/d/1faqzq1QA3CgQhkjZNOpZPK8Fk85LvhhK/view?usp=sharing), further more wandb platform is used for detailed logging during training [here](https://wandb.ai/ml-ops-02476?shareProfileType=copy)
+Training logs can be found [here](https://drive.google.com/file/d/1faqzq1QA3CgQhkjZNOpZPK8Fk85LvhhK/view?usp=sharing), further more wandb platform is used for detailed logging during training [here](https://wandb.ai/ml-ops-02476/MonoDepth3-vkitti2?nw=nwuserhhotait420)
