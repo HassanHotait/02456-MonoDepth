@@ -50,4 +50,10 @@ python train_mono.py -m zoedepth -d <nyu | kitti> --pretrained_resource=""
 
 Training logs can be found [here](https://drive.google.com/file/d/1faqzq1QA3CgQhkjZNOpZPK8Fk85LvhhK/view?usp=sharing), further more wandb platform is used for detailed logging during training [here](https://wandb.ai/ml-ops-02476/MonoDepth3-vkitti2?nw=nwuserhhotait420)
 
-<iframe src="https://wandb.ai/ml-ops-02476/MonoDepth3-vkitti2/reports/Training-Report--VmlldzoxMDY3ODYyOA" style="border:none;height:1024px;width:100%">
+Click the link below to view the full report:
+
+[View Training Report](https://wandb.ai/ml-ops-02476/MonoDepth3-vkitti2/reports/Training-Report--VmlldzoxMDY3ODYyOA)
+
+Or see the preview:
+
+[![Training Report](https://via.placeholder.com/800x400?text=Preview+Report)](https://wandb.ai/ml-ops-02476/MonoDepth3-vkitti2/reports/Training-Report--VmlldzoxMDY3ODYyOA)
