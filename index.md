@@ -8,12 +8,17 @@ title: Objects Depth Estimation With MiDaS
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
 
 
-<iframe src="https://wandb.ai/ml-ops-02476/MonoDepth3-vkitti2/reports/Report--VmlldzoxMDY3ODYyOA" style="border:none;height:1024px;width:100%">
-
 
 # Demo
 
 
 <iframe src="https://drive.google.com/file/d/1aRMpz4Wf4AMsRuIdICbQywjCS_2dvCfC/preview" width="100%" height="600" frameborder="0" allowfullscreen></iframe>
+
+# Training Logs
+
+<iframe src="https://wandb.ai/ml-ops-02476/MonoDepth3-vkitti2/reports/Report--VmlldzoxMDY3ODYyOA" style="border:none;height:1024px;width:100%">
+
+
+
 
 
